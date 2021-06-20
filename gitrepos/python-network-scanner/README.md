@@ -1,19 +1,5 @@
 # Network scanner
 
-
-
-> need to install nmap
-brew install nmap
-apt-get install nmap 
-
-pip install 
-getmac==0.8.2
-python-nmap==0.6.4
-#prettytable==0.7.2
-
-
-
-
 > A small project that I wrote on the fly in order to identify and label the devices in my networks.
 
 ## What are you getting
